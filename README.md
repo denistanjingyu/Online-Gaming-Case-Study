@@ -1,1 +1,1 @@
-# MG Asia Technical Assignment
+# Online Gaming Case Study
